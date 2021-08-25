@@ -18,9 +18,9 @@ You need the following before you start working on this project locally ;
 # Running The Application
 In your terminal, run the following commands;
  
- $ chmod a+x start.sh
+ $ chmod a+x start.sh      
      
- $ ./start.sh
+ $ ./start.sh     
 
 ## Technologies Used
 
