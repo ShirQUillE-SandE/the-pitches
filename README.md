@@ -32,7 +32,7 @@ In your terminal, run the following commands;
 ## Enjoy :)
 
 ### Licence        
-Pitches is under the  [MIT](license) LICENSE.
+Pitches is linces under the  [MIT](license) LICENSE.
 
 
            
