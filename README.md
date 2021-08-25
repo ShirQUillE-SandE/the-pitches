@@ -3,7 +3,7 @@
 ## Author
 Shirquille Sande        
 
-## Description
+## Description  
 Able to comment on a pitch in the categories given and also show intrest or dislike in the votes section  of the pitches. 
 
 ## Prerequisites
