@@ -32,10 +32,10 @@ In your terminal, run the following commands;
 ## Enjoy :)
 
 ### Licence        
-This project is under the  [MIT](license) LICENSE.
+Pitches is under the  [MIT](license) LICENSE.
 
 
-        
+           
 
 
 
