@@ -10,7 +10,7 @@ Able to comment on a pitch in the categories given and also show intrest or disl
 You need the following before you start working on this project locally ;
 
 1. Python3       
-2. Flask    
+2. Flask            
 3. Pip             
 4. Virtual Environment(venv)- which is activated by typing the following command on your terminal :( source/bin/activate)     
 5. A text editor 
