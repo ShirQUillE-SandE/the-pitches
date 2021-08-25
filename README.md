@@ -31,6 +31,6 @@ In your terminal, run the following commands;
 
 ## Enjoy :)
 
-### Licence
+### Licence        
 This project is under the  [MIT](license) LICENSE.
 
